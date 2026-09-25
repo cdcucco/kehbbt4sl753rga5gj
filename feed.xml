@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>kehbbt4sl753rga5gj</title>
+    <link>https://cdcucco.github.io/kehbbt4sl753rga5gj/</link>
+    <description>Test feed.</description>
+    <language>en-us</language>
+    <itunes:author>kehbbt4sl753rga5gj</itunes:author>
+    <itunes:image href="https://cdcucco.github.io/kehbbt4sl753rga5gj/cover.jpg"/>
+    <itunes:category text="Leisure"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Test episode 1</title>
+      <description>Ten seconds of soft chimes.</description>
+      <pubDate>Thu, 24 Sep 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">kehbbt4sl753rga5gj-test-001</guid>
+      <enclosure url="https://cdcucco.github.io/kehbbt4sl753rga5gj/episode-1.mp3" length="80501" type="audio/mpeg"/>
+      <itunes:duration>10</itunes:duration>
+    </item>
+  </channel>
+</rss>
