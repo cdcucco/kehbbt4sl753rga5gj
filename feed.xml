@@ -10,21 +10,20 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-01</title>
-      <description>Tonight (9:56): True Crime All The Time, Small Town Murder.
+      <title>Mix 2026-10-02</title>
+      <description>Tonight (10:36): Small Town Murder.
 
-1. [0:00:00] True Crime All The Time: Michelle Kinney (0:54)
-2. [0:54:13] Small Town Murder: The Killer, The Kitty &amp; The Combine - Maryville, Missouri (1:05)
-3. [1:59:36] Small Town Murder: Deadly Deeds With Dad - Wallburg, North Carolina (2:52)
-4. [4:52:01] Small Town Murder: The Deadly Grandma &amp; The Doppelgänger - Austin, Arkansas (1:07)
-5. [5:59:19] Small Town Murder: Panty Sniffing Wife Killer - Greeley, Colorado (2:51)
-6. [8:51:12] Small Town Murder: Master Of Deceit - South Salt Lake, Utah (1:05)
+1. [0:00:00] Small Town Murder: Serial Killer Desires - Waterford, Connecticut (2:46)
+2. [2:46:26] Small Town Murder: Bloody Plot Twists - Minden, Nevada (1:06)
+3. [3:52:41] Small Town Murder: Suitcases Full Of Murder - Woodbridge Township, New Jersey (2:48)
+4. [6:41:07] Small Town Murder: The Dark Prince Of Belmont County - Bellaire, Ohio (1:06)
+5. [7:47:55] Small Town Murder: Comedy Of Horrors - Washington Township, Michigan (2:48)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Thu, 01 Oct 2026 18:59:39 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-01</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-01/mix-2026-10-01.mp3" length="286257385" type="audio/mpeg"/>
-      <itunes:duration>35782</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 13:29:26 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-02</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-02/mix-2026-10-02.mp3" length="305431263" type="audio/mpeg"/>
+      <itunes:duration>38179</itunes:duration>
     </item>
   </channel>
 </rss>
