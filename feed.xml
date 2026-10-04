@@ -10,20 +10,19 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-03</title>
-      <description>Tonight (8:30): True Crime All The Time, Small Town Murder.
+      <title>Mix 2026-10-04</title>
+      <description>Tonight (7:55): Small Town Murder.
 
-1. [0:00:00] True Crime All The Time: William Keck (0:55)
-2. [0:55:24] Small Town Murder: Comedy Of Horrors - Washington Township, Michigan (2:48)
-3. [3:43:47] Small Town Murder: The Killer Prodigy - Groton, Massachusetts (1:03)
-4. [4:47:10] Small Town Murder: Murder Of The Queen - Madisonville, Kentucky (2:42)
-5. [7:29:50] Small Town Murder: Death In The Family - Williamsburg, Indiana (1:00)
+1. [0:00:00] Small Town Murder: Surprising Serial Killer - Carmel, Maine (2:52)
+2. [2:52:16] Small Town Murder: Madness, Murder &amp; Multiple Personalities - Fredericksburg, Texas (1:08)
+3. [4:00:32] Small Town Murder: My Ugly Came Out - Selmer, Tennessee (2:49)
+4. [6:50:14] Small Town Murder: A Deadly Blame Game - Pierre, South Dakota (1:05)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Sat, 03 Oct 2026 13:12:49 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-03</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-03/mix-2026-10-03.mp3" length="245017144" type="audio/mpeg"/>
-      <itunes:duration>30627</itunes:duration>
+      <pubDate>Sun, 04 Oct 2026 13:26:35 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-04</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-04/mix-2026-10-04.mp3" length="228311316" type="audio/mpeg"/>
+      <itunes:duration>28539</itunes:duration>
     </item>
   </channel>
 </rss>
