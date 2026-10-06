@@ -10,20 +10,19 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-05</title>
-      <description>Tonight (8:45): True Crime All The Time, Small Town Murder.
+      <title>Mix 2026-10-06</title>
+      <description>Tonight (7:57): Small Town Murder.
 
-1. [0:00:00] True Crime All The Time: Jayna Murray (0:54)
-2. [0:54:30] Small Town Murder: Murder For My Love - Lynchburg, Virginia (2:51)
-3. [3:45:50] Small Town Murder: Deadly Dark Delusions - Lashmeet, West Virginia (1:06)
-4. [4:52:17] Small Town Murder: Singing Serial Killer - Menomonie, Wisconsin (2:48)
-5. [7:40:57] Small Town Murder: Social Media Mob Murder - Klawock, Alaska (1:04)
+1. [0:00:00] Small Town Murder: The Chopped Swamp Murders - Ville Platte, Louisiana (1:06)
+2. [1:06:57] Small Town Murder: Breaking Badder - Mason City, Iowa (2:47)
+3. [3:54:42] Small Town Murder: The Electrician Executioner - East Hampton, New York (2:54)
+4. [6:49:41] Small Town Murder: The Murder Blame Game - Grafton, Vermont (1:08)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Mon, 05 Oct 2026 13:30:06 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-05</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-05/mix-2026-10-05.mp3" length="252260167" type="audio/mpeg"/>
-      <itunes:duration>31532</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 13:28:33 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-06</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-06/mix-2026-10-06.mp3" length="229393622" type="audio/mpeg"/>
+      <itunes:duration>28674</itunes:duration>
     </item>
   </channel>
 </rss>
