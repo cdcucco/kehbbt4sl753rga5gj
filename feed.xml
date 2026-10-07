@@ -10,19 +10,20 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-06</title>
-      <description>Tonight (7:57): Small Town Murder.
+      <title>Mix 2026-10-07</title>
+      <description>Tonight (8:31): This Paranormal Life, Small Town Murder.
 
-1. [0:00:00] Small Town Murder: The Chopped Swamp Murders - Ville Platte, Louisiana (1:06)
-2. [1:06:57] Small Town Murder: Breaking Badder - Mason City, Iowa (2:47)
-3. [3:54:42] Small Town Murder: The Electrician Executioner - East Hampton, New York (2:54)
-4. [6:49:41] Small Town Murder: The Murder Blame Game - Grafton, Vermont (1:08)
+1. [0:00:00] This Paranormal Life: The Ghost Rockets of 1946 (0:52)
+2. [0:52:26] Small Town Murder: Serial Killer Search - Poteau, Oklahoma (2:44)
+3. [3:36:41] Small Town Murder: Killer Adjustment - Bonners Ferry, Idaho (1:02)
+4. [4:38:57] Small Town Murder: My Imaginary Murder Friend - Riceboro, Georgia (2:47)
+5. [7:26:33] Small Town Murder: My Name Is Murder - Gardner, North Dakota (1:04)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Tue, 06 Oct 2026 13:28:33 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-06</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-06/mix-2026-10-06.mp3" length="229393622" type="audio/mpeg"/>
-      <itunes:duration>28674</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 07:57:07 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-07</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-07/mix-2026-10-07.mp3" length="245472929" type="audio/mpeg"/>
+      <itunes:duration>30684</itunes:duration>
     </item>
   </channel>
 </rss>
