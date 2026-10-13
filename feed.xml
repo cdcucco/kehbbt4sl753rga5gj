@@ -10,20 +10,21 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-12</title>
-      <description>Tonight (8:33): True Crime All The Time, Small Town Murder.
+      <title>Mix 2026-10-13</title>
+      <description>Tonight (7:41): True Crime Garage, Small Town Murder.
 
-1. [0:00:00] True Crime All The Time: Morgan Bauer (0:54)
-2. [0:54:58] Small Town Murder: Covering Your Murder Tracks - Yutan, Nebraska (1:05)
-3. [2:00:56] Small Town Murder: Mother Daughter Murders - Largo, Maryland (2:42)
-4. [4:43:03] Small Town Murder: Lady Leatherface - Aberdeen, New South Wales, Australia (1:05)
-5. [5:48:27] Small Town Murder: Brutal Murder, Stupid Murderer - Garfield, New Jersey (2:45)
+1. [0:00:00] True Crime Garage: Babes in the Wood Murders /// Chapter 1 (0:57)
+2. [0:57:36] True Crime Garage: Babes in the Wood Murders /// Chapter 2 (1:07)
+3. [2:04:55] True Crime Garage: Babes in the Wood Murders /// Chapter 3 (1:09)
+4. [3:14:32] True Crime Garage: Babes in the Wood Murders /// Chapter 4 (0:47)
+5. [4:01:37] Small Town Murder: Bloody Rose Petals - Greer, South Carolina (1:08)
+6. [5:10:16] Small Town Murder: Murder Mystery Gone Wild - Payson, Utah (2:31)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Mon, 12 Oct 2026 13:26:32 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-12</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-12/mix-2026-10-12.mp3" length="246549592" type="audio/mpeg"/>
-      <itunes:duration>30819</itunes:duration>
+      <pubDate>Tue, 13 Oct 2026 08:11:46 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-13</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-13/mix-2026-10-13.mp3" length="221614355" type="audio/mpeg"/>
+      <itunes:duration>27702</itunes:duration>
     </item>
   </channel>
 </rss>
