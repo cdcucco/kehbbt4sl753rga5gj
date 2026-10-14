@@ -10,21 +10,20 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-13</title>
-      <description>Tonight (7:41): True Crime Garage, Small Town Murder.
+      <title>Mix 2026-10-14</title>
+      <description>Tonight (8:19): Generation Why: True Crime, Small Town Murder.
 
-1. [0:00:00] True Crime Garage: Babes in the Wood Murders /// Chapter 1 (0:57)
-2. [0:57:36] True Crime Garage: Babes in the Wood Murders /// Chapter 2 (1:07)
-3. [2:04:55] True Crime Garage: Babes in the Wood Murders /// Chapter 3 (1:09)
-4. [3:14:32] True Crime Garage: Babes in the Wood Murders /// Chapter 4 (0:47)
-5. [4:01:37] Small Town Murder: Bloody Rose Petals - Greer, South Carolina (1:08)
-6. [5:10:16] Small Town Murder: Murder Mystery Gone Wild - Payson, Utah (2:31)
+1. [0:00:00] Generation Why: True Crime: The Gilham Family Murders - 703 (0:43)
+2. [0:43:13] Small Town Murder: The Orange Sock Murders - Breckenridge, Colorado (1:07)
+3. [1:50:46] Small Town Murder: Making A Murder Meal - Jeffersonville, Indiana (2:38)
+4. [4:29:15] Small Town Murder: Jeepers Creepers Murder - Coldwater, Michigan (1:08)
+5. [5:37:48] Small Town Murder: The Sick Ripper - New Britain, Connecticut (2:41)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Tue, 13 Oct 2026 08:11:46 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-13</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-13/mix-2026-10-13.mp3" length="221614355" type="audio/mpeg"/>
-      <itunes:duration>27702</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 08:23:15 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-14</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-14/mix-2026-10-14.mp3" length="239818359" type="audio/mpeg"/>
+      <itunes:duration>29977</itunes:duration>
     </item>
   </channel>
 </rss>
