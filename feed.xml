@@ -10,21 +10,19 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-16</title>
-      <description>Tonight (8:13): True Crime Garage, Small Town Murder.
+      <title>Mix 2026-10-17</title>
+      <description>Tonight (7:42): Small Town Murder.
 
-1. [0:00:00] True Crime Garage: Tracy Harkness ////// Part 1 of 4 (0:53)
-2. [0:53:22] True Crime Garage: Tracy Harkness ////// Part 2 of 4 (0:47)
-3. [1:41:21] True Crime Garage: Tracy Harkness ////// Part 3 of 4 (0:52)
-4. [2:33:55] True Crime Garage: Tracy Harkness ////// Part 4 of 4 (0:21)
-5. [2:55:39] Small Town Murder: Murder Is Life - Lancaster, Texas (2:33)
-6. [5:29:08] Small Town Murder: Creepy Killer Motives - Wakefield, Massachusetts (2:44)
+1. [0:00:00] Small Town Murder: Serial Butcher Killer - Parkersburg, West Virginia (2:37)
+2. [2:37:25] Small Town Murder: Death Of The Dog Lady - Bellevue, Iowa (1:07)
+3. [3:45:17] Small Town Murder: Murder By Moonlight - Chappaqua, New York (2:42)
+4. [6:27:51] Small Town Murder: Real Life Murder Songs  - Farmville, Virginia (1:14)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Fri, 16 Oct 2026 09:58:53 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-16</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-16/mix-2026-10-16.mp3" length="236837474" type="audio/mpeg"/>
-      <itunes:duration>29605</itunes:duration>
+      <pubDate>Sat, 17 Oct 2026 13:27:46 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-17</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-17/mix-2026-10-17.mp3" length="222090411" type="audio/mpeg"/>
+      <itunes:duration>27761</itunes:duration>
     </item>
   </channel>
 </rss>
