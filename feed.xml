@@ -10,20 +10,22 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-19</title>
-      <description>Tonight (8:40): True Crime All The Time, Small Town Murder.
+      <title>Mix 2026-10-20</title>
+      <description>Tonight (8:34): True Crime Garage, Small Town Murder.
 
-1. [0:00:00] True Crime All The Time: Sherry Black (0:52)
-2. [0:52:44] Small Town Murder: #598 - Cookies Solve Murders - Stowe, Vermont (1:05)
-3. [1:58:38] Small Town Murder: #597 - Talkative Serial Killer - Kellogg, Idaho (2:48)
-4. [4:46:55] Small Town Murder: #596 - Messy Methy Murder Conspiracy - Belle Fourche, South Dakota (1:08)
-5. [5:55:09] Small Town Murder: #595 - More Than A Family Feud - Quincy, Illinois (2:44)
+1. [0:00:00] True Crime Garage: The Pastor’s Wife /// Mica Miller /// Part 1 /// 952 (0:44)
+2. [0:44:18] True Crime Garage: The Pastor’s Wife /// Mica Miller /// Part 2 /// 953 (0:45)
+3. [1:29:55] Small Town Murder: #594 - Family Murder Spree - Chugiak, Alaska (1:06)
+4. [2:36:31] Small Town Murder: #593 - Jerry Springer Show Murder - Sarasota, Florida (2:38)
+5. [5:14:46] Small Town Murder: #592 - Murder Texts Are Forever - Clifton, Arizona (1:08)
+6. [6:22:54] Small Town Murder: #588 - Four Letter Murder - Falkner, Mississippi (1:07)
+7. [7:30:38] Small Town Murder: #590 - Murdering As A Family - Jonesboro, Arkansas (1:04)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Mon, 19 Oct 2026 12:14:25 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-19</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-19/mix-2026-10-19.mp3" length="249667150" type="audio/mpeg"/>
-      <itunes:duration>31208</itunes:duration>
+      <pubDate>Tue, 20 Oct 2026 08:10:37 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-20</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-20/mix-2026-10-20.mp3" length="247192411" type="audio/mpeg"/>
+      <itunes:duration>30899</itunes:duration>
     </item>
   </channel>
 </rss>
