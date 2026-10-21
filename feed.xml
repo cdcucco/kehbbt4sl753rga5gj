@@ -10,22 +10,20 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-20</title>
-      <description>Tonight (8:34): True Crime Garage, Small Town Murder.
+      <title>Mix 2026-10-21</title>
+      <description>Tonight (8:31): True Crime All The Time, Small Town Murder.
 
-1. [0:00:00] True Crime Garage: The Pastor’s Wife /// Mica Miller /// Part 1 /// 952 (0:44)
-2. [0:44:18] True Crime Garage: The Pastor’s Wife /// Mica Miller /// Part 2 /// 953 (0:45)
-3. [1:29:55] Small Town Murder: #594 - Family Murder Spree - Chugiak, Alaska (1:06)
-4. [2:36:31] Small Town Murder: #593 - Jerry Springer Show Murder - Sarasota, Florida (2:38)
-5. [5:14:46] Small Town Murder: #592 - Murder Texts Are Forever - Clifton, Arizona (1:08)
-6. [6:22:54] Small Town Murder: #588 - Four Letter Murder - Falkner, Mississippi (1:07)
-7. [7:30:38] Small Town Murder: #590 - Murdering As A Family - Jonesboro, Arkansas (1:04)
+1. [0:00:00] True Crime All The Time: David Reed (0:54)
+2. [0:54:38] Small Town Murder: #591 - Best Friends Murder - Hudson, Ohio (2:43)
+3. [3:37:44] Small Town Murder: #589 - Pig Farm Murders - Wimer, Oregon (2:40)
+4. [6:18:35] Small Town Murder: #584 - Killer Homecoming King - Powell, Wyoming (1:07)
+5. [7:25:43] Small Town Murder: #586 - Never Trust Your Cousin - Clanton, Alabama (1:05)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Tue, 20 Oct 2026 08:10:37 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-20</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-20/mix-2026-10-20.mp3" length="247192411" type="audio/mpeg"/>
-      <itunes:duration>30899</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 10:14:02 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-21</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-21/mix-2026-10-21.mp3" length="245332495" type="audio/mpeg"/>
+      <itunes:duration>30666</itunes:duration>
     </item>
   </channel>
 </rss>
