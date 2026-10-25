@@ -10,19 +10,20 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-10-24</title>
-      <description>Tonight (7:43): Court Junkie, Small Town Murder.
+      <title>Mix 2026-10-25</title>
+      <description>Tonight (8:31): True Crime All The Time, Small Town Murder.
 
-1. [0:00:00] Court Junkie: Archives: The New York New York Casino Shooting (Steven Zegrean Trial) (1:05)
-2. [1:05:51] Small Town Murder: #579 - Millions To Murder - Sunnyside, California (2:42)
-3. [3:48:02] Small Town Murder: #577 - Behind A Serial Killer's Mask - Lenexa, Kansas (2:46)
-4. [6:34:29] Small Town Murder: #574 - Murder Selfies - Lucin, Utah (1:09)
+1. [0:00:00] True Crime All The Time: Clara Rector (0:55)
+2. [0:55:25] Small Town Murder: #575 - Lady In The Water - Arcadia Township, Michigan (2:36)
+3. [3:32:00] Small Town Murder: #573 - Serial Killing Schizophrenic Cannibal - Bethesda, Maryland (2:45)
+4. [6:17:48] Small Town Murder: #572 - Murderous Male Stripper - Wantage Township, New Jersey (1:07)
+5. [7:25:38] Small Town Murder: #570 - Twelve Scary Hours - Westport, Connecticut (1:06)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Sat, 24 Oct 2026 19:12:46 -0500</pubDate>
-      <guid isPermaLink="false">mix-2026-10-24</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-24/mix-2026-10-24.mp3" length="222689556" type="audio/mpeg"/>
-      <itunes:duration>27836</itunes:duration>
+      <pubDate>Sun, 25 Oct 2026 10:56:11 -0500</pubDate>
+      <guid isPermaLink="false">mix-2026-10-25</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-10-25/mix-2026-10-25.mp3" length="245604585" type="audio/mpeg"/>
+      <itunes:duration>30701</itunes:duration>
     </item>
   </channel>
 </rss>
