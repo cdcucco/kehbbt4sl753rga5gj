@@ -10,21 +10,19 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-11-01</title>
-      <description>Tonight (8:31): Casefile True Crime, Small Town Murder.
+      <title>Mix 2026-11-02</title>
+      <description>Tonight (8:20): True Crime All The Time Unsolved, Small Town Murder.
 
-1. [0:00:00] Casefile True Crime: Case 355: Anna Lisa Raymundo (1:24)
-2. [1:24:03] Small Town Murder: #546 - Stairway To Heaven - Newfane, Vermont (1:07)
-3. [2:31:13] Small Town Murder: #545 - Google Map My Murder - Cary, North Carolina (2:40)
-4. [5:11:27] Small Town Murder: #544 - Moronic Murderers - Washington Boro, Pennsylvania (1:07)
-5. [6:18:34] Small Town Murder: #540 - Ghost Hunter - Everson, Washington (1:07)
-6. [7:25:35] Small Town Murder: #538 - Dead With No Head - Kingman, Kansas (1:06)
+1. [0:00:00] True Crime All The Time Unsolved: Cindy Song (0:48)
+2. [0:48:32] Small Town Murder: #543 - Baby Faced Killer - Menoken, North Dakota (2:30)
+3. [3:19:27] Small Town Murder: #541 - Death, Love &amp; OnlyFans - Calera, Alabama (2:35)
+4. [5:54:30] Small Town Murder: #537 - The Ballad Of Bambi - Nixonville, South Carolina (2:26)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Sun, 01 Nov 2026 21:40:58 -0600</pubDate>
-      <guid isPermaLink="false">mix-2026-11-01</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-11-01/mix-2026-11-01.mp3" length="245748781" type="audio/mpeg"/>
-      <itunes:duration>30719</itunes:duration>
+      <pubDate>Mon, 02 Nov 2026 10:52:35 -0600</pubDate>
+      <guid isPermaLink="false">mix-2026-11-02</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-11-02/mix-2026-11-02.mp3" length="240305073" type="audio/mpeg"/>
+      <itunes:duration>30038</itunes:duration>
     </item>
   </channel>
 </rss>
