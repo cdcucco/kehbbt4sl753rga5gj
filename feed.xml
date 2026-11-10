@@ -10,20 +10,20 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-11-09</title>
-      <description>Tonight (8:20): True Crime Garage, Small Town Murder.
+      <title>Mix 2026-11-10</title>
+      <description>Tonight (8:10): True Crime All The Time, Small Town Murder.
 
-1. [0:00:00] True Crime Garage: Fox Hollow Farm /// Part 1 /// 949 (0:56)
-2. [0:56:02] True Crime Garage: Fox Hollow Farm /// Part 2 /// 950 (0:58)
-3. [1:54:59] Small Town Murder: #515 - Against The Wind - Stephenville, Texas (2:39)
-4. [4:34:52] Small Town Murder: #514 - Onion Of Lies - Agency, Iowa (1:07)
-5. [5:41:59] Small Town Murder: #513 - Music Box Murder - Agawam, Massachusetts (2:38)
+1. [0:00:00] True Crime All The Time: James Robertson (0:44)
+2. [0:44:55] Small Town Murder: #512 - Men At Work - Goomboorian, Queensland, Australia (1:09)
+3. [1:54:33] Small Town Murder: #511 - A Deadly Love - Rutledge, Georgia (2:33)
+4. [4:28:24] Small Town Murder: #510 - The Scariest Barn On Earth - Delta, Ohio (1:02)
+5. [5:31:15] Small Town Murder: #509 - Almost Got Away With It - Idaho Falls, Idaho (2:38)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Mon, 09 Nov 2026 07:52:02 -0600</pubDate>
-      <guid isPermaLink="false">mix-2026-11-09</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-11-09/mix-2026-11-09.mp3" length="240009993" type="audio/mpeg"/>
-      <itunes:duration>30001</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 09:31:08 -0600</pubDate>
+      <guid isPermaLink="false">mix-2026-11-10</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-11-10/mix-2026-11-10.mp3" length="235219763" type="audio/mpeg"/>
+      <itunes:duration>29402</itunes:duration>
     </item>
   </channel>
 </rss>
