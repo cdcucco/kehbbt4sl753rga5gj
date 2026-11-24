@@ -10,20 +10,18 @@
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Mix 2026-11-23</title>
-      <description>Tonight (8:38): Small Town Murder.
+      <title>Mix 2026-11-24</title>
+      <description>Tonight (7:53): Small Town Murder.
 
-1. [0:00:00] Small Town Murder: #475 - One Too Many Girlfriends - Wilmington, Delaware (2:42)
-2. [2:42:11] Small Town Murder: #473 - Flying Vampire Tinder Date - Wilber, Nebraska (2:36)
-3. [5:19:05] Small Town Murder: #472 - Evil Came To Play - Milledgeville, Georgia (1:08)
-4. [6:27:06] Small Town Murder: #468 - The Killer Clown Mystery - Wellington, Florida (1:07)
-5. [7:34:18] Small Town Murder: #470 - Friday The 13th - Panhandle, Texas (1:04)
+1. [0:00:00] Small Town Murder: #471 - The Talented Mr Psychopath - Amity, Maine (2:35)
+2. [2:35:46] Small Town Murder: #469 - A Quantity Of Horror - Big Lake Township, Minnesota (2:36)
+3. [5:12:26] Small Town Murder: #467 - Abnormal Acts Of Brutality - Valley City, North Dakota (2:41)
 
 Ads removed. Times are where each episode starts in the mix.</description>
-      <pubDate>Mon, 23 Nov 2026 13:30:18 -0600</pubDate>
-      <guid isPermaLink="false">mix-2026-11-23</guid>
-      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-11-23/mix-2026-11-23.mp3" length="248837709" type="audio/mpeg"/>
-      <itunes:duration>31105</itunes:duration>
+      <pubDate>Tue, 24 Nov 2026 13:27:27 -0600</pubDate>
+      <guid isPermaLink="false">mix-2026-11-24</guid>
+      <enclosure url="https://github.com/cdcucco/kehbbt4sl753rga5gj/releases/download/mix-2026-11-24/mix-2026-11-24.mp3" length="227375088" type="audio/mpeg"/>
+      <itunes:duration>28422</itunes:duration>
     </item>
   </channel>
 </rss>
